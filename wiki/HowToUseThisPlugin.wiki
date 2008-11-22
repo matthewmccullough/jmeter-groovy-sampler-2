@@ -1,0 +1,13 @@
+#summary This is how you make use of this plugin and run a groovy script.
+#labels Featured,Phase-Deploy
+
+= Introduction =
+
+This page will tell you all about how to use this plugin
+
+
+= Details =
+
+Follow these steps to use this plugin:
+  * Download JMeter *2.4.3* and _Maven 2.0.9_
+  * Set up an environment variable JMETER_HOME
