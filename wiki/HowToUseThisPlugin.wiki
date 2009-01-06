@@ -1,4 +1,4 @@
-#summary This is how you make use of this plugin and run a groovy script in JMeter for performance testing purposes.
+#summary How to make use of this plugin and run a groovy script in JMeter for performance testing purposes.
 #labels Featured,Phase-Deploy
 
 = Introduction =
