@@ -9,5 +9,8 @@ This page will tell you all about how to use this plugin
 = Details =
 
 Follow these steps to use this plugin:
-  * Download JMeter *2.4.3* and _Maven 2.0.9_
-  * Set up an environment variable JMETER_HOME
+ * Download JMeter *2.4.3* and _Maven 2.0.9_
+ * Set up an environment variable JMETER_HOME
+ * Put this plugin JAR in your JMETER_HOME/lib/ext directory
+ * Start up JMeter
+ * Notice the new Add Sampler menu item for Groovy Script Sampler
